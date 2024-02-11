@@ -1,0 +1,19 @@
+{
+    "name": "moja-aplikacja-electron",
+    "version": "1.0.0",
+    "description": "Opis Twojej aplikacji",
+    "main": "main.js",
+    "scripts": {
+      "start": "electron ."
+    },
+    "author": "Twój Autor",
+    "license": "Licencja Twojej aplikacji",
+    "devDependencies": {
+      "electron": "^13.1.8"
+    },
+    "dependencies": {
+      "inna-zaleznosc": "^1.0.0",
+      "jeszcze-inna-zaleznosc": "^2.0.0"
+    }
+  }
+  
